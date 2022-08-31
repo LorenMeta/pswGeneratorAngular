@@ -1,2 +1,1 @@
-Password Generator using Angular
-Link: https://psw-generator.vercel.app/
+Password Generator using Angular: https://psw-generator.vercel.app/
